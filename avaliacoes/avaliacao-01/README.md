@@ -13,6 +13,6 @@ git add .
 git commit -m "Alterado em dd-mm-aaaa" 
 git push
 
-Eventualmente usar o comando git status para verificar se o arquivo está pronto para faer o push.
+Eventualmente usar o comando git status para verificar se o arquivo está pronto para fazer o push.
 
 Printar esses comandos e grava-los em um arquivo print.pdf e coloca-lo na pasta atividade-01 
