@@ -1,4 +1,4 @@
-#Avaliação 02
+# Segunda avaliação 
 
 Defina os seguintes conceitos centrais da abordagem ER:
 a) Entidade;
