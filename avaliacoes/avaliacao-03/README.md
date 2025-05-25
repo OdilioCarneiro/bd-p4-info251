@@ -1,4 +1,4 @@
-"#Avaliação 03" 
+#Avaliação 03
 Crie um banco de dados SCA_251.bd. 
 Nele defina as Tabela TB_ALUNO, TB_PROFESSOR, TB_CURSO e TB_DISCIPLINA.
 Pede-se:
